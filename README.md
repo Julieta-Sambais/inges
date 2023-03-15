@@ -7,4 +7,5 @@ Entregas año 2023
 * Liberal Emiliano, <eliberal97@gmail.com>
 * Videla Jose, <josevidelita98@gmail.com>
 <hr>
-![](C:\Users\user\Desktop.png) 
+![foto](\Users/user/Desktop.png)
+
